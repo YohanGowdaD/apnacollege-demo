@@ -1,4 +1,4 @@
 # apnacollege-demo
 git repo
 <br>
-Author - Yohan 
+Author - Yohan Gowda D
